@@ -173,3 +173,6 @@ Anda bisa masuk dengan kredensial dari `UserSeeder`:
 
   * **Email:** `manager@gmail.com`
   * **Password:** `password`
+
+Tanggal Dikerjakan 16/08/2025
+Pukul 03.30
